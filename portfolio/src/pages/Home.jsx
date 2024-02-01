@@ -1,3 +1,5 @@
+import React from 'react';
+
 function Home() {
     // Body
     return <div>This is home page</div>
