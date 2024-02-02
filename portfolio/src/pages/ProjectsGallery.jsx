@@ -1,6 +1,6 @@
 import React from 'react';
-import Project from './components/Project';
-import projects from '../data/projects.json';
+import Project from '../components/project';
+import projects from '../data/project.json';
 
 function ProjectsGallery() {
     // Body

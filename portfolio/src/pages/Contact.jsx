@@ -1,5 +1,6 @@
 import React from 'react';
-function Contact() {
+
+const  Contact = () => {
     return (
       <div>
         <h2>Contact</h2>
@@ -9,4 +10,6 @@ function Contact() {
         </p>
       </div>
     );
-  }
+  };
+
+export default Contact;

@@ -13,6 +13,9 @@ function NavBar() {
                         <li className="nav-item">
                             <NavLink className="nav-link" to="/projects-gallery" end>Projects Gallery</NavLink>
                         </li>
+                        <li className="nav-item">
+                            <NavLink className="nav-link" to="/contact" end>Contact</NavLink>
+                        </li>
                     </ul>
                 </div>
             </div>
