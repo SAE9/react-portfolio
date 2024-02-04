@@ -9,6 +9,7 @@ import ProjectsGallery from './pages/ProjectsGallery';
 import Footer from './components/Footer';
 
 
+
 function App() {
     return <Router>
       <Header />
