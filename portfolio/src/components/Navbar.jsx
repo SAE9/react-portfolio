@@ -10,10 +10,10 @@ const NavBar = () => {
 
   return (
     // Uses bootstrap style to form toggle navigation button 
-    <nav className="navbar navbar-expand-lg bg-body-tertiary">
-      <div className="container-fluid">
+    <nav className="navbar navbar-expand-lg bg-white">
+      <div className="container-fluid ">
         <button
-          className="navbar-toggler"
+          className="navbar-toggler" 
           type="button"
           data-bs-toggle="collapse"
           data-bs-target="#navbarSupportedContent"
@@ -26,7 +26,7 @@ const NavBar = () => {
         </button>
 
         <div className={`collapse navbar-collapse ${nav ? 'show' : ''}`} id="navbarSupportedContent">
-          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+          <ul className="navbar-nav me-auto mb-2 mb-lg-0 text-center">
             <li className="nav-item">
               <NavLink className="nav-link" to="/" end>
                 Home
