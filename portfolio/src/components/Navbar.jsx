@@ -1,12 +1,15 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
+import '../css/navbar.css';
 
 const NavBar = () => {
+    // state allows to manage the responsiveness of the navigation toggle
   const [nav, setNav] = useState(false);
-
+// function which manages toggle button when clicked on
   const handleClick = () => setNav(!nav);
 
   return (
+    // Uses bootstrap style to form toggle navigation button 
     <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
         <button

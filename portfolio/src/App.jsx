@@ -18,6 +18,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             <Route path="/projects-gallery" element={<ProjectsGallery />} />
         </Routes>
+        <Footer />
     </Router>;
 }
 
