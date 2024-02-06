@@ -11,7 +11,7 @@ const NavBar = () => {
   return (
     // Uses bootstrap style to form toggle navigation button 
     <nav className="navbar navbar-expand-lg bg-white">
-      <div className="container-fluid ">
+      <div className="container-fluid">
         <button
           className="navbar-toggler" 
           type="button"

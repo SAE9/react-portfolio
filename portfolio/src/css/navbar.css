@@ -1,10 +1,7 @@
 
 .nav-link {
    font-size: 21px;
-  
-
 }
-
 
 
 /* Style for the links on hover */
@@ -13,10 +10,6 @@
  
   }
   
-  .socialIcon:hover {
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
-    transform: scale(1.5); 
-    transition: transform 0.2s ease;
-  }
+
  
   
