@@ -1,0 +1,32 @@
+
+.form {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .form input,
+  .form textarea {
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .form textarea {
+    height: 100px; 
+  }
+  
+  .form button {
+    background-color:  rgb(70, 133, 128); 
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .form button:hover {
+    background-color:  rgb(52, 91, 89); 
+  }
+  
