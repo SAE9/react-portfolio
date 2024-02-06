@@ -7,6 +7,7 @@ import Home from './pages/Home';
 import Contact from './pages/contact';
 import ProjectsGallery from './pages/ProjectsGallery';
 import Footer from './components/Footer';
+import Form from './components/Form';
 
 
 function App() {
