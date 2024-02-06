@@ -1,14 +1,16 @@
 
 .nav-link {
    font-size: 21px;
+   color: rgb(239, 242, 244);
 }
 
 
 /* Style for the links on hover */
 .navbar-nav .nav-link:hover {
-    color:  rgb(82, 117, 82); 
+    color:  rgb(94 234 212); 
  
   }
+  
   
 
  
