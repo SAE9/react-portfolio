@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "title": "My awesome project",
-        "description": "This is my awesome project that I have done in just 1 hour",
-        "image": "/img/project-1.png",
-        "github" : "",
-        "deployedLink" : ""
+        "title": "Password Generator",
+        "description": "This application creates a random password generator using javascript.",
+        "image": "/img/5-1.png",
+        "github" : "https://github.com/SAE9/Password-generator/tree/main",
+        "deployedLink" : "https://sae9.github.io/Password-generator/"
     },
     {
         "id": 2,
-        "title": "My awesome project 2",
-        "description": "This is my awesome project that I have done in just 2 hours",
-        "image": "/img/project-2.png",
-        "github" : "",
+        "title": "ReadMe generator",
+        "description": "This project is a ReadMe generator using node js and inquirer package",
+        "image": "/img/rg-1.png",
+        "github" : "https://github.com/SAE9/Readme-/tree/main",
         "deployedLink" : ""
     },
     {
         "id": 3,
-        "title": "My awesome project 3",
-        "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png",
-        "github" : "",
+        "title": "Team generator",
+        "description": "This project creates generates a team in an webpage while using node js, inquirer and jest package",
+        "image": "/img/html.png",
+        "github" : "https://github.com/SAE9/Team-profile-generator/tree/main",
         "deployedLink" : ""
     },
     {
         "id": 4,
-        "title": "My awesome project 3",
-        "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png",
-        "github" : "",
+        "title": "Trend Tube",
+        "description": "A collaborated project to create a website which allows to fetch news and videos using Api",
+        "image": "/img/t-1.png",
+        "github" : "https://github.com/Mykulcoding/TrendTube",
         "deployedLink" : ""
     },
     {
         "id": 5,
-        "title": "My awesome project 3",
-        "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png",
-        "github" : "",
-        "deployedLink" : ""
+        "title": "Console Finance",
+        "description": "This project analyses a financial dataset using JavaScript to calculate key metrics",
+        "image": "/img/console-finaces.png",
+        "github" : "https://github.com/SAE9/Console-Finances/tree/main",
+        "deployedLink" : "https://sae9.github.io/Console-Finances/"
     },
     {
         "id": 6,
-        "title": "My awesome project 3",
-        "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png",
-        "github" : "",
-        "deployedLink" : ""
+        "title": "Krecs",
+        "description": "A korean drama reccomendation website",
+        "image": "/img/homepage.png",
+        "github" : "https://github.com/SAE9/ProjectKRecs/tree/main",
+        "deployedLink" : "https://sae9.github.io/ProjectKRecs/"
     }
 ]
