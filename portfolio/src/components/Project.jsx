@@ -1,5 +1,6 @@
 import React from 'react';
 
+// Define the Project component as a functional component
 const Project = ({ title, images, description, deployedLink, github }) => {
   console.log(images);
   return (

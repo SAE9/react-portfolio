@@ -1,3 +1,6 @@
+/* style for footer component */
+
+/* style for footer*/
 .footer {
    
     padding: 2px 0;
@@ -12,7 +15,7 @@
     
 }
 
-
+/* style for footer paragraph */
 
 .footerText p {
     font-size: 15px;
@@ -22,6 +25,7 @@
   
 }
 
+/* style for social icon */
 .socialIcon {
     height: 50px;
     width: 50px;
@@ -40,7 +44,7 @@
     transition: transform 0.3s ease;
   }
   
-
+/* style for github icon*/
 #githubIcon {
     width: 85px;
     height: 85px;

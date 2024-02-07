@@ -1,3 +1,6 @@
+/* style for home page */
+
+/* style for body */
 body {
     background-image: url('../images/boxes.jpg');
     background-size: cover;
@@ -6,20 +9,20 @@ body {
     padding: 0;
 }
 
-
+/* style for container */
 .container-fluid {
     text-align: center;
 }
 
+/* style for text */
 .Text {
     margin-top: 20px;
     color: rgb(70, 133, 128);
     max-width: 18rem;
 
-
 }
 
-
+/* style for display */
 .display-5 {
     margin-top: 20px;
     text-align: center;
@@ -31,6 +34,7 @@ body {
 
 }
 
+/* style for rezing image */
 image-resize {
     width: 100px;
     height: 100px;

@@ -21,10 +21,10 @@ function Form() {
   };
 
   const handleFormSubmit = (event) => {
-    // Preventing the default behavior of the form submit (which is to refresh the page)
+    // Preventing the default behavior of the form submit 
     event.preventDefault();
 
-    // Simulate sending a message (you can replace this with actual logic to send the message)
+    // Simulate sending a message
     alert(`Message sent:
       Name: ${formData.name}
       Email: ${formData.email}
