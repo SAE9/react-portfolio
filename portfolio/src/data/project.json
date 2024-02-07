@@ -3,36 +3,48 @@
         "id": 1,
         "title": "My awesome project",
         "description": "This is my awesome project that I have done in just 1 hour",
-        "image": "/img/project-1.png"
+        "image": "/img/project-1.png",
+        "github" : "",
+        "deployedLink" : ""
     },
     {
         "id": 2,
         "title": "My awesome project 2",
         "description": "This is my awesome project that I have done in just 2 hours",
-        "image": "/img/project-2.png"
+        "image": "/img/project-2.png",
+        "github" : "",
+        "deployedLink" : ""
     },
     {
         "id": 3,
         "title": "My awesome project 3",
         "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png"
+        "image": "/img/project-3.png",
+        "github" : "",
+        "deployedLink" : ""
     },
     {
         "id": 4,
         "title": "My awesome project 3",
         "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png"
+        "image": "/img/project-3.png",
+        "github" : "",
+        "deployedLink" : ""
     },
     {
         "id": 5,
         "title": "My awesome project 3",
         "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png"
+        "image": "/img/project-3.png",
+        "github" : "",
+        "deployedLink" : ""
     },
     {
         "id": 6,
         "title": "My awesome project 3",
         "description": "This is my awesome project that I have done in just 3 hours",
-        "image": "/img/project-3.png"
+        "image": "/img/project-3.png",
+        "github" : "",
+        "deployedLink" : ""
     }
 ]
