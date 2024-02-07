@@ -16,5 +16,23 @@
         "title": "My awesome project 3",
         "description": "This is my awesome project that I have done in just 3 hours",
         "image": "/img/project-3.png"
+    },
+    {
+        "id": 4,
+        "title": "My awesome project 3",
+        "description": "This is my awesome project that I have done in just 3 hours",
+        "image": "/img/project-3.png"
+    },
+    {
+        "id": 5,
+        "title": "My awesome project 3",
+        "description": "This is my awesome project that I have done in just 3 hours",
+        "image": "/img/project-3.png"
+    },
+    {
+        "id": 6,
+        "title": "My awesome project 3",
+        "description": "This is my awesome project that I have done in just 3 hours",
+        "image": "/img/project-3.png"
     }
 ]
