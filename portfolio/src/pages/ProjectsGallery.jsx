@@ -1,6 +1,7 @@
 import React from 'react';
 import Project from '../components/Project';
 import projects from '../data/project.json';
+import '../css/project.css';
 
 function ProjectsGallery() {
   return (
@@ -16,7 +17,7 @@ function ProjectsGallery() {
                 description={project.description}
                 image={project.image}
                 deployedLink={project.deployedLink}
-                githubLink={project.githubLink}
+                github={project.github}
               />
             </div>
           </div>

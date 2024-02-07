@@ -1,0 +1,51 @@
+/* project.css */
+
+/* Style for cards */
+.card {
+    height: 100%; 
+  }
+  
+  .card-body {
+    height: 100%; 
+  }
+  
+/* Style for project cards */
+.project-card {
+    border: 1px solid white;
+    border-radius: 8px; 
+    overflow: hidden; 
+  }
+  
+  /* Style for project images */
+  .project-card img {
+    width: 100%; 
+    height: auto; 
+  }
+  
+  /* Style for project title */
+  .project-card .card-title {
+    font-weight: bold; 
+    margin-bottom: 0.5rem; 
+  }
+  
+  /* Style for project description */
+  .project-card .card-text {
+    margin-bottom: 1rem; 
+  }
+  
+ 
+  
+  /* Style for project link buttons */
+  .project-card .project-links .btn {
+    flex-grow: 1; 
+    margin-right: 5px; 
+  }
+  
+  /*style for buttons*/
+  
+  .btn-success {
+    background-color:  rgb(52, 91, 89);
+    border-color:  rgb(52, 91, 89);
+  }
+
+  

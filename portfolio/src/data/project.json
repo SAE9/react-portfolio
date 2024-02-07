@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Password Generator",
         "description": "This application creates a random password generator using javascript.",
-        "image": "/img/5-1.png",
+        "image": "/images/5-1.png",
         "github" : "https://github.com/SAE9/Password-generator/tree/main",
         "deployedLink" : "https://sae9.github.io/Password-generator/"
     },

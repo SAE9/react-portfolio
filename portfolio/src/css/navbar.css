@@ -1,4 +1,4 @@
-
+/* style for nav link */
 .nav-link {
    font-size: 21px;
    color: rgb(239, 242, 244);
@@ -11,7 +11,10 @@
  
   }
   
-  
-
+  /* navbar toggle style */
+  .navbar-toggler {
+   color: rgb(94 234 212);
+  }
+ 
  
   
