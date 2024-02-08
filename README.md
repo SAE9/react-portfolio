@@ -29,7 +29,7 @@ Creating a react portfolio using react,bootstrap and react router.
 
 ## Demo
 
-https://app.netlify.com/sites/spontaneous-seahorse-c259b4/deploys
+https://spontaneous-seahorse-c259b4.netlify.app
 
 
 ## Credits
