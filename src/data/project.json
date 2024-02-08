@@ -3,7 +3,7 @@
         "id": 1,
         "title": "Password Generator",
         "description": "This application creates a random password generator using javascript.",
-        "images": "/images/5-1.png",
+        "images": "./images/5-1.png",
         "github" : "https://github.com/SAE9/Password-generator/tree/main",
         "deployedLink" : "https://sae9.github.io/Password-generator/"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "title": "ReadMe generator",
         "description": "This project is a ReadMe generator using node js and inquirer package",
-        "images": "/images/rg-1.png",
+        "images": "./images/rg-1.png",
         "github" : "https://github.com/SAE9/Readme-/tree/main",
         "deployedLink" : ""
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "title": "Team generator",
         "description": "This project creates generates a team in an webpage while using node js, inquirer and jest package",
-        "images": "/images/html.png",
+        "images": "./images/html.png",
         "github" : "https://github.com/SAE9/Team-profile-generator/tree/main",
         "deployedLink" : ""
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "title": "Trend Tube",
         "description": "A collaborated project to create a website which allows to fetch news and videos using Api",
-        "images": "/images/t-1.png",
+        "images": "./images/t-1.png",
         "github" : "https://github.com/Mykulcoding/TrendTube",
         "deployedLink" : ""
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "Console Finance",
         "description": "This project analyses a financial dataset using JavaScript to calculate key metrics",
-        "images": "/images/console-finances.png",
+        "images": "./images/console-finances.png",
         "github" : "https://github.com/SAE9/Console-Finances/tree/main",
         "deployedLink" : "https://sae9.github.io/Console-Finances/"
     },
@@ -43,7 +43,7 @@
         "id": 6,
         "title": "Krecs",
         "description": "A korean drama reccomendation website",
-        "images": "/images/homepage.png",
+        "images": "./images/homepage.png",
         "github" : "https://github.com/SAE9/ProjectKRecs/tree/main",
         "deployedLink" : "https://sae9.github.io/ProjectKRecs/"
     }
