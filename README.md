@@ -2,7 +2,8 @@
 
 ## Description
 
-Creating a react portfolio using react,bootstrap and react router.
+
+A sleek portfolio has been crafted using React, Bootstrap, and React Router. This dynamic blend ensures seamless navigation and responsive design across devices. It showcases my projects, skills, and achievements.
 
 ## Table of Contents
 
@@ -27,10 +28,6 @@ Creating a react portfolio using react,bootstrap and react router.
 ![see here](assets/)
 ![see here](assets/p1.png)
 
-## Demo
-
-https://spontaneous-seahorse-c259b4.netlify.app
-
 
 ## Credits
 
@@ -43,3 +40,5 @@ Note: contributions from stack overflow and MDN.
 Licensed under the MIT license
 
 ## Deployment 
+
+https://spontaneous-seahorse-c259b4.netlify.app

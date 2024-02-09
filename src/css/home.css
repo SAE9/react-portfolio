@@ -3,42 +3,63 @@
 /* style for body */
 body {
     background-image: url('../images/boxes.jpg');
+    background-color: #000000;
     background-size: cover;
     background-position: center;
+    background-repeat: none;
     margin: 0;
     padding: 0;
+    position: relative;
+    height: 100%;
 }
 
-/* style for container */
-.container-fluid {
-    text-align: center;
+.home {
+    height: calc(100vh - 155px);
+}
+
+.inherit-height {
+    height: inherit;
 }
 
 /* style for text */
-.Text {
-    margin-top: 20px;
-    color: rgb(70, 133, 128);
-    max-width: 18rem;
+.text-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
+.text {
+    margin-top: 20px;
+    /* color: rgb(70, 133, 128); */
+    color: rgba(94, 234, 212, 0.8);
+    font-size: 32px;
+    text-align: center;
+    width: 80%;
 }
 
 /* style for display */
 .display-5 {
     margin-top: 20px;
     text-align: center;
-    max-width: 18rem;
     color: #fff;
-    ;
-
-
-
 }
 
 /* style for rezing image */
 image-resize {
     width: 100px;
     height: 100px;
-   
-    
-
 }
+
+@media(max-width: 768px) {
+    .home {
+        /* height: calc(100vh - 185px); */
+        height: auto;
+    }
+}
+
+/* @media(max-height: 790px) {
+    .home {
+      height: 100%;
+    }
+  } */
