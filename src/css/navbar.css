@@ -9,14 +9,22 @@
 
 /* Style for the links on hover */
 .navbar-nav .nav-link:hover {
-    color:  rgb(94 234 212); 
+    color:  rgb(94, 234, 212); 
  
   }
+
+
+  .navbar-nav .nav-link.active {
+   color:  rgb(94, 234, 212); 
+  }
+
   
   /* navbar toggle style */
   .navbar-toggler {
-   color: rgb(94 234 212);
+   background-color: rgb(94, 234, 212);
   }
+ 
+ 
  
  
   

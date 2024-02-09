@@ -4,6 +4,7 @@ import '../css/home.css';
 import '../images/boxes.jpg';
 
 
+
 function Home() {
   return (
     <div className='home'>
