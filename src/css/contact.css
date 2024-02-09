@@ -1,5 +1,9 @@
 /* style for contact page */
 
+.contact-page {
+  height: calc(100vh - 155px);
+}
+
 /* style for form */
 .form {
     max-width: 400px;
@@ -47,3 +51,16 @@
   .container a:link {
     text-decoration: none;
   }
+
+
+  @media(max-width: 768px) {
+    .contact-page {
+      height: calc(100vh - 185px);
+    }
+}
+
+@media(max-height: 790px) {
+  .contact-page {
+    height: 100%;
+  }
+}
