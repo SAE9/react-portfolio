@@ -5,7 +5,7 @@ import '../css/project.css';
 
 function ProjectsGallery() {
   return (
-    <div className="container mt-5">
+    <div className="container mt-5 projects">
       <h2>Project Gallery</h2>
       <p>Explore my past projects!</p>
       <div className="row">
