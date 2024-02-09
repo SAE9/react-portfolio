@@ -1,8 +1,8 @@
 import React from 'react';
 import githubImage from '../images/github_icon.png';
-import emailImage from '../images/4550857_email_gmail_mail_sending_yahoo_icon.png';
-import linkedinImage from '../images/5279114_linkedin_network_social network_linkedin logo_icon.png';
-import cvImage from '../images/10219191_curriculum_vitae_cv_job profile_biodata_icon.png';
+import emailImage from '../images/email.png';
+import linkedinImage from '../images/linkin.png';
+import cvImage from '../images/cv.png';
 
 import '../css/footer.css';
 
